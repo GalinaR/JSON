@@ -1,1 +1,12 @@
-
+{
+  "title":"ASRM is turned off after restoring the system",
+  "severity":"Major",
+  "steps_to_reproduce":[
+    "1. Turn on ASRM",
+    "2. Backup the system",
+    "3. Restore the system"
+  ],
+  "actual_result":"ASRM is turned off",
+  "expected_result":"ASRM is turnd on after restoring",
+  "environment":"Windows 10 uefi"
+}
