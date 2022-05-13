@@ -1,0 +1,18 @@
+{
+	"skills":[
+		"Client-server architecture",
+		"HTTP request and response structures",
+		"JSON and XML structure",
+		"API testing via Postman (JS, API autotests)",
+		"Sniffing http web and mobile traffics with Charles and Fiddler",
+		"Web Browser DevTools",
+		"Mobile testing",
+		"Building iOS Apps with Xcode",
+		"Building Android Applications with Android Studio",
+		"Setting up proxy and vpn on iOS and Android",
+		"Terminal using",
+		"Access to remote servers",
+		"SQL queries",
+		"Load Testing in Jmeter"
+	]
+}
